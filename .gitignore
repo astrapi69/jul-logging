@@ -84,5 +84,4 @@
 /build
 /app/build
 /.gradle
-/gradle
 /pom.xml.bak
